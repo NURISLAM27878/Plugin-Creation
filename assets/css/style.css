@@ -1,0 +1,8 @@
+.poat-item-tabs-container .cat-items li{
+    list-style: none;
+    cursor: pointer;
+}
+.poat-item-tabs-container .cat-items{
+    display: flex;
+    justify-content: space-between;
+}
